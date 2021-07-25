@@ -17,11 +17,11 @@
 
 1.開啟終端機將專案存至本機:
 ```
-git clone https://github.com/alan78814/expense-tracker.git
+git clone https://github.com/alan78814/Middleware-exercise.git
 ```
 2.進入專案目錄
 ```
-cd expense-tracker
+cd Middleware-exercise
 ```
 3.安裝套件
 ```
